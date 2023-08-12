@@ -1,10 +1,10 @@
 # Fakih Hamid - Portfolio
 
-👋 Hi there, I'm Fakih Hamid! Welcome to my portfolio repository where I showcase my journey in the world of technology, programming, and video games.
+👋 Hi there, I'm Fakih Hamid! Welcome to my portfolio repository where I showcase my journey in the exciting Tech World.
 
 ## About Me
 
-- 👀 I'm passionate about all things tech, programming, and of course, video games.
+- 👀 I'm passionate about all things Tech, Programming, Cybersecurity, Data science, Blockhain Technology and Artificial intelligence (IA).
 - 🌱 Currently, I'm diving deep into the realms of Computer Engineering, Web Development, and Cybersecurity to expand my horizons.
 - 💞️ I'm enthusiastic about collaborating on exciting projects, contributing, and sharing knowledge within the realm of my passions.
 
@@ -15,7 +15,7 @@
 
 ## Technologies & Skills
 
-I'm actively learning and working with technologies like HTML, CSS, JavaScript, and more. My journey involves a blend of creativity, problem-solving, and exploration.
+I'm actively learning and working with Web development technologies like HTML, CSS, JavaScript, and more. My journey involves a blend of creativity, problem-solving, and exploration.
 
 ## How to Use This Repository
 
@@ -27,7 +27,7 @@ To view and explore my portfolio, follow these simple steps:
 
 ## Contributions
 
-If you're as passionate about tech and programming as I am, I'd love your contributions. Feel free to:
+If you're as passionate about Tech as I am, I'd love your contributions. Feel free to:
 - Report issues you find
 - Suggest improvements
 - Contribute directly via pull requests
@@ -38,4 +38,4 @@ This project is licensed under the MIT License. Check out the [LICENSE](LICENSE)
 
 ---
 
-Thank you for visiting my portfolio repository. It's a reflection of my journey and a testament to my love for technology and coding. Let's connect and collaborate!
+Thank you for visiting my portfolio repository. It's a reflection of my journey and a testament to my love for Technology, Computer Engineering and coding. Let's connect and collaborate!

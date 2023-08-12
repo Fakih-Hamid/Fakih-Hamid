@@ -15,7 +15,7 @@
 
 ## Technologies & Skills
 
-I'm actively learning and working with Web development technologies like HTML, CSS, JavaScript, and more. My journey involves a blend of creativity, problem-solving, and exploration.
+I'm actively learning and working with Web development technologies like HTML, CSS, JavaScript, Network infrastructures, Web3 and more. My journey involves a blend of creativity, problem-solving, and exploration.
 
 ## How to Use This Repository
 

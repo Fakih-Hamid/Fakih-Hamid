@@ -1,6 +1,6 @@
 # Fakih Hamid - Portfolio
 
-👋 Hi there, I'm Fakih Hamid! Welcome to my portfolio repository where I showcase my journey in the exciting Tech World.
+👋 Hi there, I'm Fakih Hamid! Welcome to my portfolio repository where I showcase my journey and passion.
 
 ## About Me
 

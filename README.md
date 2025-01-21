@@ -5,8 +5,8 @@
 ## About Me
 
 - 👀 I'm passionate about all things Tech, Programming, Cybersecurity, Data science, Blockhain Technology and Artificial intelligence (IA).
-- 🌱 Currently, I'm diving deep into the realms of Computer Engineering, Web Development, and Cybersecurity to expand my horizons.
-- 💞️ I'm enthusiastic about collaborating on exciting projects, contributing, and sharing knowledge within the realm of my passions.
+- 🌱 Currently, I'm focusing on Computer Engineering, Web Development, and Cybersecurity to expand my horizons.
+- 💞️ I'm enthusiastic about collaborating on projects, contributing, and sharing knowledge.
 
 ## Contact Me
 
@@ -15,7 +15,7 @@
 
 ## Technologies & Skills
 
-I'm actively learning and working with Web development technologies like HTML, CSS, JavaScript, Network infrastructures, Web3 and more. My journey involves a blend of creativity, problem-solving, and exploration.
+I'm actively learning and working with Web development technologies like HTML, CSS, JavaScript, Network infrastructures, Web3 and more. I'm also enthusiastic about the future of Blockchain Technology and Artificial Intelligence.
 
 ## How to Use This Repository
 

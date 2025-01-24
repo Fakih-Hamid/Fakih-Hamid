@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 👀 I'm passionate about all things Tech, Programming, Cybersecurity, Data science, Blockhain Technology and Artificial intelligence (IA).
-- 🌱 Currently, I'm focusing on Computer Engineering, Web Development, and Cybersecurity to expand my horizons.
-- 💞️ I'm enthusiastic about collaborating on projects, contributing, and sharing knowledge.
+- I'm passionate about all things Tech, Programming, Cybersecurity, Data science, Blockhain Technology and Artificial intelligence (IA).
+- Currently, I'm focusing on Computer Engineering, Web Development, and Cybersecurity to expand my horizons.
+- I'm enthusiastic about collaborating on projects, contributing, and sharing knowledge.
 
 ## Contact Me
 

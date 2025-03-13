@@ -5,7 +5,7 @@
 ## About Me
 
 - I'm passionate about all things Tech, Programming, Cybersecurity, Data science, Blockhain Technology and Artificial intelligence (IA).
-- Currently, I'm focusing on Computer Engineering, Web Development, and Cybersecurity to expand my horizons.
+- Currently, I'm focusing on working with machine learning techniques in Python and conducting research on AI-driven education systems.
 - I'm enthusiastic about collaborating on projects, contributing, and sharing knowledge.
 
 ## Contact Me
@@ -15,7 +15,7 @@
 
 ## Technologies & Skills
 
-I'm actively learning and working with Web development technologies like HTML, CSS, JavaScript, Network infrastructures, Web3 and more. I'm also enthusiastic about the future of Blockchain Technology and Artificial Intelligence.
+I'm actively working with web development technologies and applying machine learning techniques in Python while focusing on cybersecurity. My research is conducted within the Cyber-Resilience Laboratory, where I explore the intersection of cybersecurity, education, and artificial intelligence. My goal is to integrate these fields to develop secure, intelligent, and scalable solutions that drive innovation in education, automation, and industrial applications.
 
 ## How to Use This Repository
 

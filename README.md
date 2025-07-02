@@ -17,7 +17,7 @@
 
 ## Current Research
 
-I'm currently exploring the intersection of AI, cybersecurity, and education through research focused on developing privacy-conscious, adaptive learning systems. My work combines machine learning and user behavior analysis to create intelligent tools that empower users with proactive digital awareness—especially in underserved regions. I’m particularly interested in open-source, offline-first solutions that respect user privacy while enhancing digital resilience.
+I'm currently exploring the intersection of AI, cybersecurity, and education through research focused on developing privacy-conscious, adaptive learning systems. My work combines machine learning and user behavior analysis to create intelligent tools that empower users with proactive digital awareness especially in underserved regions. I’m particularly interested in open-source, offline-first solutions that respect user privacy while enhancing digital resilience.
 
 ## 🌐 Live Preview
 
@@ -26,6 +26,3 @@ I'm currently exploring the intersection of AI, cybersecurity, and education thr
     <img src="https://img.shields.io/badge/🌐%20View%20Live%20Portfolio-Click%20Here-orange?style=for-the-badge&logo=github" />
   </a>
 </p>
-
-
-Thank you for visiting. Let's connect and collaborate!

@@ -15,7 +15,7 @@
 📫 Feel free to get in touch:
 - Email: fakih-hamid@proton.me
 
-## Technologies & Skills
+## Current Research
 
 I'm currently exploring the intersection of AI, cybersecurity, and education through research focused on developing privacy-conscious, adaptive learning systems. My work combines machine learning and user behavior analysis to create intelligent tools that empower users with proactive digital awareness—especially in underserved regions. I’m particularly interested in open-source, offline-first solutions that respect user privacy while enhancing digital resilience.
 
@@ -27,10 +27,5 @@ I'm currently exploring the intersection of AI, cybersecurity, and education thr
   </a>
 </p>
 
-## 🤝 Let's Connect
-
-If you’re passionate about Tech, Cybersecurity, or AI and want to collaborate, improve the project, or just exchange ideas — feel free to reach out or submit suggestions.
-
----
 
 Thank you for visiting. Let's connect and collaborate!

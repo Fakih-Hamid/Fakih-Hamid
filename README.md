@@ -17,7 +17,7 @@
 
 ## Current Research
 
-I'm currently exploring the intersection of AI, cybersecurity, and education through research focused on developing privacy-conscious, adaptive learning systems. My work combines machine learning and user behavior analysis to create intelligent tools that empower users with proactive digital awareness especially in underserved regions. I’m particularly interested in open-source, offline-first solutions that respect user privacy while enhancing digital resilience.
+I'm currently exploring the intersection of AI, cybersecurity, and education through research focused on developing privacy-conscious, adaptive learning systems. My work combines machine learning and user behavior analysis to create intelligent tools that empower users with proactive digital awareness. I’m particularly interested in open-source, offline-first solutions that respect user privacy while enhancing digital resilience.
 
 ## 🌐 Live Preview
 

@@ -6,7 +6,7 @@
 
 ## About Me
 
-- I'm passionate about all things Tech, Cybersecurity, Blockchain Technology, and Artificial Intelligence (AI).
+- I'm passionate about all things Tech, Cybersecurity, and Artificial Intelligence (AI).
 - Currently, I'm focusing on conducting research on AI-driven cybersecurity education systems.
 - I'm enthusiastic about collaborating on projects, contributing, and sharing knowledge.
 

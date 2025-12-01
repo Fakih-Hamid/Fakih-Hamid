@@ -6,8 +6,8 @@
 
 ## About Me
 
-- I'm passionate about all things Tech, Cybersecurity, and Artificial Intelligence (AI).
-- Currently, I'm focusing on conducting research on AI-driven cybersecurity education systems.
+- I work as a Research Assistant, with research centered on applied AI and cybersecurity projects aimed at strengthening digital resilience and enhancing human-factor security.
+- I collaborate on research and engineering initiatives aiming to build practical security tools.
 - I'm enthusiastic about collaborating on projects, contributing, and sharing knowledge.
 
 ## Contact Me
@@ -17,7 +17,7 @@
 
 ## Current Research
 
-I'm currently exploring the intersection of AI, cybersecurity, and education through research focused on developing privacy-conscious, adaptive learning systems. My work combines machine learning and user behavior analysis to create intelligent tools that empower users with proactive digital awareness. I’m particularly interested in open-source, offline-first solutions that respect user privacy while enhancing digital resilience.
+I'm currently exploring the intersection of AI, cybersecurity, and education through research focused on developing privacy-conscious, adaptive learning systems. My work combines LLMs, NLP, and user behavior analysis to create intelligent tools that empower users with proactive digital awareness. I’m particularly interested in open-source, offline-first solutions that respect user privacy while enhancing digital resilience.
 
 ## 🌐 Live Preview
 

@@ -17,7 +17,7 @@
 
 ## Current Research
 
-I'm currently exploring the intersection of AI, cybersecurity, and education through research focused on developing privacy-conscious, adaptive learning systems. My work combines LLMs, NLP, and user behavior analysis to create intelligent tools that empower users with proactive digital awareness. I’m particularly interested in open-source, offline-first solutions that respect user privacy while enhancing digital resilience.
+My current research focuses on building privacy-conscious, adaptive security frameworks that combine local LLMs, behavioral modeling, and gamified learning. I’m especially interested in how AI can support human-centered cybersecurity by improving engagement, motivation, and long-term retention in realistic training scenarios. I work on offline-first, open-source systems that use LLMs, NLP, and behavior analysis to provide proactive, personalized security awareness while respecting user privacy and data ownership. I also explore applied areas of security engineering including anti-cheat mechanisms, behavior-based detection, system integrity, and practical pentesting workflows where I enjoy turning concepts into concrete prototypes and experimental tools. Across these projects, I study the relationship between how people behave, how systems fail, and how AI can help create safer, more resilient digital environments.
 
 ## 🌐 Live Preview
 

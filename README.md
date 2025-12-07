@@ -6,7 +6,7 @@
 
 ## About Me
 
-- I work as a Research Assistant, with research centered on applied AI and cybersecurity projects aimed at strengthening digital resilience and enhancing human-factor security.
+- I work as a Research Assistant at the Cyber-Resilience Lab as part of my master's program, where my research focuses on applied AI and cybersecurity.
 - I collaborate on research and engineering initiatives aiming to build practical security tools.
 - I'm enthusiastic about collaborating on projects, contributing, and sharing knowledge.
 

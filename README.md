@@ -8,7 +8,7 @@
 • Application development
 
 ## Current Work
-I am a Master’s student and Research Assistant at the Cyber-Resilience Lab, NAIST, working on privacy-preserving and open-source cybersecurity education frameworks designed for real-world use. My research explores how security awareness and digital resilience can be strengthened through user-centric design, without relying on cloud-heavy or invasive data collection.
+I am a Master’s student and Research Assistant at the Cyber-Resilience Lab, NAIST, where I am involved in research on privacy-preserving cybersecurity education frameworks. My current interests include user-centered approaches to strengthening security awareness and digital resilience in ways that respect data minimization and openness.
 
 ## Selected Projects
 - **Project Aegis**  

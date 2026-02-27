@@ -1,7 +1,8 @@
 ## Focus
 • Cybersecurity Research  
-• Penetration Testing
 • Application development
+• Penetration Testing
+
 
 ## Current Work
 I am a Master’s student and Research Assistant at the Cyber-Resilience Lab, NAIST, where I am involved in research on privacy-preserving cybersecurity education frameworks. In my free time, I focus on hands-on security practice, including penetration testing, security experimentation, and building applications. 

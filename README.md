@@ -1,5 +1,3 @@
-
-
 ## Focus
 • Cybersecurity Research  
 • Penetration Testing

@@ -1,6 +1,6 @@
 ## Focus
-• Cybersecurity Research  
-• Application development
+• Cybersecurity Research<br>
+• Application Development<br>
 • Penetration Testing
 
 

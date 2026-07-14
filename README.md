@@ -1,10 +1,11 @@
-## Focus
-• Cybersecurity Research<br>
-• Application Development<br>
-• Penetration Testing<br>
+## Focus 
+• Cybersecurity Research<br> 
+• Application Development<br> 
+• Penetration Testing 
 
-## Portfolio
-[fakih-hamid.github.io](https://fakih-hamid.github.io)
+## 🌐 Portfolio 
+<p align="center"> <a href="https://fakih-hamid.github.io" target="_blank"> <img src="https://img.shields.io/badge/View%20Portfolio-fakih--hamid.github.io-orange?style=for-the-badge" /> </a> </p> 
 
-## Contact
-[fakih-hamid@proton.me](mailto:fakih-hamid@proton.me)
+
+## 📫 Contact
+- Email: fakih-hamid@proton.me

@@ -1,7 +1,7 @@
 ## Focus 
-• Cybersecurity Research<br> 
-• Application Development<br> 
-• Penetration Testing 
+• Cybersecurity Research
+• Human-Centered Security & Privacy
+• Penetration Testing & Game Security
 
 ## 🌐 Portfolio 
 

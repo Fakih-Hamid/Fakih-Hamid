@@ -2,6 +2,7 @@
 -  Cybersecurity Research
 -  Human-Centered Security & Privacy
 -  Penetration Testing & Game Security
+-  Network Security
 
 ## 🌐 Portfolio 
 

@@ -1,8 +1,8 @@
-## Focus 
--  Cybersecurity Research
+## Research Interests
 -  Human-Centered Security & Privacy
 -  Penetration Testing & Game Security
 -  Network Security
+-  Malware Analysis
 
 ## 🌐 Portfolio 
 
